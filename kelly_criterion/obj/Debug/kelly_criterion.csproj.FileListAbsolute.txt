@@ -1,0 +1,18 @@
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\bin\Debug\kelly_criterion.exe.config
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\bin\Debug\kelly_criterion.exe
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\bin\Debug\kelly_criterion.pdb
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.csprojResolveAssemblyReference.cache
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.Form1.resources
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.Properties.Resources.resources
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.csproj.GenerateResource.Cache
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.exe
+c:\users\bagus\documents\visual studio 2013\Projects\kelly_criterion\kelly_criterion\obj\Debug\kelly_criterion.pdb
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\bin\Debug\kelly_criterion.exe.config
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.exe
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.pdb
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.csprojResolveAssemblyReference.cache
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.Form1.resources
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.Properties.Resources.resources
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\obj\Debug\kelly_criterion.csproj.GenerateResource.Cache
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\bin\Debug\kelly_criterion.exe
+C:\Users\Bagus\Documents\Visual Studio 2013\Projects\kelly_criterion with decimal\kelly_criterion\bin\Debug\kelly_criterion.pdb
