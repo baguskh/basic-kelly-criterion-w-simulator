@@ -1,4 +1,4 @@
-# basic-kelly-criterion-w-simulator app
+kelly-criterion-w-simulator app
 kelly criterion simulator - VS C#
 
 
